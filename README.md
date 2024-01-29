@@ -48,16 +48,24 @@
 
 ###
 
+<h2 align="center">At the moment I'm learning</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+</div>
+
+###
+
 <h2 align="center">I will learn</h2>
 
 ###
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
 </div>
 
 ###
